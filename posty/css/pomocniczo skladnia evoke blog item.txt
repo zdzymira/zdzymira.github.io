@@ -1,0 +1,245 @@
+
+
+
+
+
+article
+
+ <a class="post-url" href="https://matchthemes.com/demowp/evoke/paris-je-taime/" title="Paris Je T’Aime" style="background-image:url('https://matchthemes.com/demowp/evoke/wp-content/uploads/2015/03/img-12m.jpg');">
+        <div class="overlay"></div>
+        </a>
+        
+         <div class="content">
+         
+         <a href="https://matchthemes.com/demowp/evoke/paris-je-taime/">
+        
+         <div class="item-date">January 15, 2017</div>         
+        <h2>Paris Je T’Aime</h2>
+        
+           <h3>This is a subtitle</h3>         </a>
+        
+        <div class="vcard author author-details">
+        
+        <span class="author-url">By</span> <a class="fn author-url" href="https://matchthemes.com/demowp/evoke/author/joesmith/" rel="author">	Joe Smith</a>
+        
+        <b class="front-categ"><i class="fa fa-circle"></i> <a href="https://matchthemes.com/demowp/evoke/category/lifestyle/" rel="category tag">Lifestyle</a>, <a href="https://matchthemes.com/demowp/evoke/category/travel/" rel="category tag">Travel</a></b>
+		
+		        
+                
+        <b class="read-time"><i class="fa fa-circle"></i> 5 min read</b>
+        
+                </div>
+        
+        </div><!--content-->
+		
+		
+		article
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<div class="row"> <!--8-8-4-4-8-8-->
+	<div class="col-md-6">
+
+		<div class="row">
+						
+								
+						<div class="col-md-6"><a name=""></a>
+							<a href="#" class="featured-grid featured-grid-2" style="background-image: url(https://4.bp.blogspot.com/-skhQrbLAVjE/W_1MwhibThI/AAAAAAAADfM/54JtDMYF8QQCTnUZVcHDiyMz0hvDUBsOwCKgBGAs/s1600/desk-1148994_1920.jpg);">
+								<div class="mid">
+								<item-date>232</item-date>
+							<h4>23232</h4>
+							
+			</div>
+							</a>
+						</div>
+						
+						<div class="col-md-6"><a name="aurora"></a>
+							<a href="v3c.html" class="featured-grid featured-grid-2" style="background-image: url(https://3.bp.blogspot.com/-osz8zMW7xrU/W_1MLterRFI/AAAAAAAADe4/i2ECyuus2ig7ZW4nldmZsVbWdsPIbY5QwCKgBGAs/s1600/rail-234318_1920.jpg);">
+								<div class="mid">
+								<item-date></item-date>
+							<h4></h4></div></a></div>
+						
+				
+
+						
+						
+		</div>
+
+					<a href="#" class="featured-grid featured-grid-2" style="background-image: url(https://2.bp.blogspot.com/-1-Ybi2c8FhM/W_1McztsVTI/AAAAAAAADfA/a5KxDq8Dh3MjNRq7OECEXduMdDxykWBrQCKgBGAs/s1600/cereals-100263_1920.jpg);">
+						<a name=""></a>
+						<div class="mid">
+						<item-date>5ey</item-date>
+							<h4>erts </h4>
+<h5>sssssssss sssss</h5>							
+						</div>
+					</a>
+					
+					
+					
+	</div>			
+	
+	
+	
+	<div class="col-md-6"><a href="#"></a>
+					<a href="#" class="featured-grid featured-grid-2" style="background-image: url(https://2.bp.blogspot.com/-pnjUy_2lTlw/W_0ZmKJHFfI/AAAAAAAADcM/68_DeMegEAkcxnofvEcD2An1E-uClZB7ACKgBGAs/s1600/away-3024773_1920.jpg);">
+						<div class="mid">
+						<item-date></item-date>
+							<h4> </h4>
+							
+						</div>
+					</a>
+<div class="row">
+						
+						
+						
+						<div class="col-md-6 ">
+							<a href="#" class="featured-grid featured-grid-2" style="background-image: url(https://1.bp.blogspot.com/-J7I2yyQoKkw/W_0bR5PcPxI/AAAAAAAADc0/Mj-jIIRCAr8wF-2IpaoT4B4KLxIQPpuLgCKgBGAs/s1600/horse-60153.jpg);">
+							<div class="mid">
+							<item-date> </item-date>
+				</div>
+							</a>
+						</div>
+						
+						
+						
+						
+						<div class="col-md-6"><a name="lb"></a>
+							<a href="lb.html" class="featured-grid featured-grid-2 " style="background-image: url(https://1.bp.blogspot.com/-SJZgk86t1N4/W_0c1hdxHsI/AAAAAAAADdY/hxQ8f7VKwe44URpjNbDBXjZp0W0iDVHfgCLcBGAs/s1600/lub..jpg);">
+								<div class="mid">
+								<item-date></item-date>
+							<h4></h4>
+							
+							</div>
+							</a>
+						</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+</div>
+	
+	
+</div></div><!--8-8-4-4-8-8 koniec -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col-md-6">
+
+		<div class="row">
+						
+								
+						<div class="col-md-6"><a name=""></a>
+							<a href="#" class="featured-grid featured-grid-2" style="background-image: url(https://4.bp.blogspot.com/-skhQrbLAVjE/W_1MwhibThI/AAAAAAAADfM/54JtDMYF8QQCTnUZVcHDiyMz0hvDUBsOwCKgBGAs/s1600/desk-1148994_1920.jpg);">
+								<div class="mid">
+								<item-date></item-date>
+							<h4></h4>
+							
+			</div>
+							</a>
+						</div>
+						
+						<div class="col-md-6"><a name=""></a>
+							<a href="#" class="featured-grid featured-grid-2" style="background-image: url(https://3.bp.blogspot.com/-osz8zMW7xrU/W_1MLterRFI/AAAAAAAADe4/i2ECyuus2ig7ZW4nldmZsVbWdsPIbY5QwCKgBGAs/s1600/rail-234318_1920.jpg);">
+								<div class="mid">
+								<item-date></item-date>
+							<h4></h4>
+							
+			</div>
+
+							</a>
+						</div>
+						
+				
+
+						
+						
+		</div>
+
+					<a href="#" class="featured-grid featured-grid-2" style="background-image: url(https://2.bp.blogspot.com/-1-Ybi2c8FhM/W_1McztsVTI/AAAAAAAADfA/a5KxDq8Dh3MjNRq7OECEXduMdDxykWBrQCKgBGAs/s1600/cereals-100263_1920.jpg);">
+						<a name=""></a>
+						<div class="mid">
+						<item-date>56w45</item-date>
+							<h4>w46 w45y</h4>
+							
+						</div>
+					</a>
+					
+					
+					
+	</div>			
+	
+	<div class="col-md-6"><a name=""></a>
+					<a href="#" class="featured-grid" style="background-image: url(https://4.bp.blogspot.com/-HMtD5In581U/W_1M_5yvvQI/AAAAAAAADfQ/_ORZboqlrxYLREHRGW_qdJioz55fcYr1QCKgBGAs/s1600/tree-736877.jpg);">
+						<div class="mid">
+						<item-date></item-date>
+							<h2></h2>
+							
+				<vcard></vcard>
+										</div>
+										
+					</a>
+	</div>
+	
+	
+</div>
+
+
+
+
+
+
+
+
+
