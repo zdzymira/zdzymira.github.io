@@ -57,12 +57,18 @@
    
     <script src="jquery.js"></script> 
 
-    <script> 
-    $(function(){
-      $("#includedContent").load("footer.html"); 
-    });
-    </script> 
+
    
+<script> 	
+$(function () {
+  var includes = $('[data-include]')
+  $.each(includes, function () {
+    var file = 'views/' + $(this).data('include') + '.html'
+    $(this).load(file)
+  })
+})
+</script>
+		
    
    
 
@@ -96,7 +102,8 @@ in.html#kw1
 					
 <p><span class="firstcharacter">C</span>
 
-
+<div data-include="header"></div>
+<div data-include="footer"></div>
 			
 <br />
 
